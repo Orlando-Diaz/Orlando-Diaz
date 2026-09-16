@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-Estudiante de último semestre de Ingeniería de Sistemas y Computación con experiencia práctica en desarrollo de software y fundamentos sólidos en infraestructura. Actualmente en búsqueda de oportunidades para contribuir a proyectos significativos mientras completo mi formación académica.
+Ingemiero de Sistemas y Computación con experiencia práctica en desarrollo de software y fundamentos sólidos en infraestructura. Actualmente en búsqueda de oportunidades para contribuir a proyectos significativos mientras completo mi formación académica.
 
 ## 🛠️ Habilidades Técnicas
 
